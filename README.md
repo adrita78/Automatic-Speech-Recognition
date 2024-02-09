@@ -1,4 +1,6 @@
 # HW3P2- Automatic Speech Recognition
+Speech recognition by predicting the phonemes in a recording. Implemented RNNs and the dynamic programming algorithm, Connectionist Temporal Classification, to generate such
+labels.
 
 ## Dependencies
 
